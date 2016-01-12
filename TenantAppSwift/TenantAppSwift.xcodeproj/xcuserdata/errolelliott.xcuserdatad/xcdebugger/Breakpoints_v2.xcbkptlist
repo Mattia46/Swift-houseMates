@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TenantAppSwift/ViewController.swift"
+            timestampString = "473192645.831119"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+<<<<<<< HEAD
+            endingLineNumber = "86">
+=======
+            endingLineNumber = "86"
+            landmarkName = "signin(_:)"
+            landmarkType = "5">
+>>>>>>> 3adec20e3b695cd1e1fa036e665c145b20569f47
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TenantAppSwift/ViewController.swift"
+            timestampString = "473192645.831119"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+<<<<<<< HEAD
+            endingLineNumber = "86">
+=======
+            endingLineNumber = "86"
+            landmarkName = "signin(_:)"
+            landmarkType = "5">
+>>>>>>> 3adec20e3b695cd1e1fa036e665c145b20569f47
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
